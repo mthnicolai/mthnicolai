@@ -2,6 +2,10 @@
 
 Me chamo Matheus, tenho 15 anos e estou no 1º ano do ensino médio integrado com o curso técnico em Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e, atualmente, estou focado nos estudos de Node.js, buscando aprimorar minhas habilidades na área de desenvolvimento.
 
+<div>
+     <a href="https://instagram.com/twnicolai_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
