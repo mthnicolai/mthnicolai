@@ -49,14 +49,14 @@ Me chamo Matheus, tenho 15 anos e estou no 1º ano do ensino médio integrado co
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=mthnicolai&show_icons=true&theme=dark" 
+    src="https://github-readme-stats.vercel.app/api?username=mthnicolai&show_icons=true&theme=dark&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="100" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthnicolai&hide_progress=true&theme=dark" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthnicolai&hide_progress=true&theme=dark&locale=pt-br" 
   />
 
 </p>
