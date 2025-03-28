@@ -54,7 +54,7 @@ Me chamo Matheus, tenho 15 anos e estou no 1º ano do ensino médio integrado co
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="" 
+    src="https://github-readme-stats.vercel.app/api?username=mthnicolai&show_icons=true&theme=transparent&locale=pt-br&include_all_commits-true&include_all_stars-true&count_private-true" 
   />
 
 <img 
