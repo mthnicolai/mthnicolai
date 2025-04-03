@@ -1,5 +1,6 @@
 # Hello World! 👋  
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/twnicolai_/)  
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/twnicolai_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://https://www.linkedin.com/in/matheus-nicolai-26b9b6359?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 ## Meu nome é Matheus  
 
 ( HTML | CSS | JavaScript| Node.js | Java 🚀)  
