@@ -1,50 +1,20 @@
-## Hello World! 🌍
+# Hello World! 👋  
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/twnicolai_/)  
+## Meu nome é Matheus  
 
-Me chamo Matheus, estou no 1º ano do ensino médio integrado com o curso técnico em Análise e Desenvolvimento de Sistemas. Sou fascinado por tecnologia e, atualmente, estou focado nos estudos de Node.js, buscando aprimorar minhas habilidades na área de desenvolvimento.
+( HTML | CSS | JavaScript| Node.js | Java 🚀)  
 
-<div>
-     <a href="https://instagram.com/twnicolai_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) 
+
+👨‍💻 Explorando o desenvolvimento Full Stack, estudando Java e aprimorando meus conhecimentos em back-end  
+
+📚 Apaixonado por tecnologia, programação e aprendizado contínuo  
+
+💡 Gosto de desafios e de resolver problemas com código  
 
 ---
 
-### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px"  
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Node.js"
-    title="Node.js" 
-    width="30px" 
-    style="padding-right: 10px;" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-
-<br/>
-<br/>
 
 ### 📊 Estatísticas
 
