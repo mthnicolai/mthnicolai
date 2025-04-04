@@ -29,12 +29,5 @@
     src="https://github-readme-stats.vercel.app/api?username=mthnicolai&show_icons=true&theme=transparent&locale=pt-br&include_all_commits-true&include_all_stars-true&count_private-true" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="100" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthnicolai&hide_progress=true&theme=transparent&locale=pt-br" 
-  />
 
-</p>
 
