@@ -8,7 +8,7 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) 
 
-👨‍💻 Explorando o desenvolvimento Full Stack, estudando Java e aprimorando meus conhecimentos em back-end  
+👨‍💻 Explorando o desenvolvimento Back-end, estudando Java e aprimorando meus conhecimentos nessa stack 
 
 📚 Apaixonado por tecnologia, programação e aprendizado contínuo  
 
